@@ -26,5 +26,5 @@ else if (randomNumber1 < randomNumber2) {
 }
 //If draw
 else {
-  document.querySelector("h1").innerHTML = "Draw!";
+  document.querySelector("h1").innerHTML = "It's a Draw!";
 }
